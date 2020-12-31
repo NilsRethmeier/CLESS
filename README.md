@@ -3,7 +3,7 @@ Repository for the paper "CLESS: Contrastive Label Embedding Self-supervised Zer
 
 ## Summary
 CLESS, uses contrastive label-embedding self-supervision to enable data efficient text encoder pretraining that is inherently zero-shot transferable and improves long-tail minority learning.
-<p align="left"><img src="CLESS_Model.png" width="420">
+<p align="left"><img src="CLESS_Model.png" width="630">
 
 
 We examine learning on a challenging long-tailed, low-resource, multi-label text classification dataset with noisy, highly sparse labels and many minority concepts. 
