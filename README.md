@@ -16,15 +16,16 @@ self-supervised zero and few-shot learning markedly benefit from increasing 'dat
 <p align="left"><img src="Zero_shot.png" width="630"><img src="Few_shot.png" width="630">
 
 
-# preprint 
-Contrastive_Label_Embedding_Self-Supervion_2020.pdf
+# :scroll: Paper preprint 
+[CLESS_Contrastive_Label_Embedding_Self_Supervsion.pdf](https://drive.google.com/file/d/1qT1anFBvflZr0lzWC8CdTOGNeIgm28aN/view)
+
 This is an updated version and the future code repository for the paper "Long-Tail Zero and Few-Shot Learning via Contrastive Pretraining on and for Small Data", Nils Rethmeier, Isabelle Augenstein, 2 Oct 2020, https://arxiv.org/abs/2010.01061
 
 
-# Code
-Code and arxiv paper will be updated, but not during annonymity deadlines of specific conferences, as they prohibit public updates :(
+# :computer: Code
+Code and arxiv paper will be updated, after annonymity periods. They prohibit public updates.
 
-# bitex
+# :bookmark_tabs: bitex
 ```
 @misc{rethmeier2020longtail,
     title={CLESS: Contrastive Label Embedding Self-supervised Zero to Few-shot Learning from and for Small, Long-tailed Text Data},
