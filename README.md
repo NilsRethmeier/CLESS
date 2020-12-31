@@ -12,11 +12,10 @@ We examine learning on a challenging long-tailed, low-resource, multi-label text
 We find that long-tail, ...
 <p align="left"><img src="longtail_performance.png" width="630">
 
-self-supervised zero-shot learning ...
-<p align="left"><img src="Zero_shot.png" width="630">
+self-supervised zero and few-shot learning markedly benefit from increasing 'dataset-internal' self-supervised training signal, which helps reduce reliance on large external sources.
+<p align="left"><img src="Zero_shot.png" width="630"><p align="left"><img src="Few_shot.png" width="630">
 
-and few-shot learning markedly benefit from increasing 'dataset-internal' self-supervised training signal, which helps reduce reliance on large external sources.
-<p align="left"><img src="Few_shot.png" width="630">
+
 
 # preprint 
 Contrastive_Label_Embedding_Self-Supervion_2020.pdf
