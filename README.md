@@ -1,26 +1,25 @@
-# CLESS -- Contrastive Label Embedding Self-Supervion
-Repository for the paper "CLESS: Contrastive Label Embedding Self-supervised Zero to Few-shot Learning from and for Small, Long-tailed Text Data", Nils Rethmeier, Isabelle Augenstein, 2020
+# CLESS -- Contrastive (Long-tail/)Label Efficient Self-Supervision
+Repository for the paper "Long-Tail Zero and Few-Shot Learning via Contrastive Pretraining on and for Small Data", Nils Rethmeier, Isabelle Augenstein, 2020
 
 ## Summary
 CLESS, uses contrastive label-embedding self-supervision to enable data efficient text encoder pretraining that is inherently zero-shot transferable and improves long-tail minority learning.
-<p align="left"><img src="CLESS_Model.png" width="630">
+<p align="left"https://github.com/NilsRethmeier/CLESS><img src="CLESS_Model.png" width="630">
 
 
 We examine learning on a challenging long-tailed, low-resource, multi-label text classification dataset with noisy, highly sparse labels and many minority concepts. 
 <p align="left"><img src="Long_tail.png" width="420">
 
-We find that long-tail, ...
+<!-- We find that long-tail, ...
 <p align="left"><img src="longtail_performance.png" width="630">
 
 self-supervised zero and few-shot learning markedly benefit from increasing 'dataset-internal' self-supervised training signal, which helps reduce reliance on large external sources.
-<p align="left"><img src="Zero_shot.png" width="630"><img src="Few_shot.png" width="630">
+<p align="left"><img src="Zhttps://drive.google.com/file/d/1qT1anFBvflZr0lzWC8CdTOGNeIgm28aN/viewero_shot.png" width="630"><img src="Few_shot.png" width="630">-->
 
 
-# :scroll: Paper preprint 
-[CLESS_Contrastive_Label_Embedding_Self_Supervsion.pdf](https://drive.google.com/file/d/1qT1anFBvflZr0lzWC8CdTOGNeIgm28aN/view)
+# :scroll: [Paper](https://arxiv.org/abs/2010.01061)
 
 This is an updated version and the future code repository for the paper "Long-Tail Zero and Few-Shot Learning via Contrastive Pretraining on and for Small Data", Nils Rethmeier, Isabelle Augenstein, 2 Oct 2020, https://arxiv.org/abs/2010.01061
-
+ -->
 
 # :computer: Code
 Code and arxiv paper will be updated, after annonymity periods. They prohibit public updates.
@@ -28,7 +27,7 @@ Code and arxiv paper will be updated, after annonymity periods. They prohibit pu
 # :bookmark_tabs: bitex
 ```
 @misc{rethmeier2020longtail,
-    title={CLESS: Contrastive Label Embedding Self-supervised Zero to Few-shot Learning from and for Small, Long-tailed Text Data},
+    title={Long-Tail Zero and Few-Shot Learning via Contrastive Pretraining on and for Small Data},
     author={Nils Rethmeier and Isabelle Augenstein},
     year={2020},
     eprint={2010.01061},
