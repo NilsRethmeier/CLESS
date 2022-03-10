@@ -1,4 +1,4 @@
-# CLESS -- Contrastive (Long-tail/)Label Efficient Self-Supervision
+# CLESS -- Long-Tail Zero and Few-Shot Learning via Contrastive Pretraining on and for Small Data
 Repository for the paper "Long-Tail Zero and Few-Shot Learning via Contrastive Pretraining on and for Small Data", Nils Rethmeier, Isabelle Augenstein, 2020
 
 ## Summary
