@@ -22,7 +22,7 @@ This is an updated version and the future code repository for the paper "Long-Ta
  -->
 
 # :computer: Code
-Code and arxiv paper will be updated, after annonymity periods. They prohibit public updates.
+Code and arxiv paper will be updated in time.
 
 # :bookmark_tabs: bitex
 ```
