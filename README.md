@@ -1,6 +1,10 @@
 # CLESS -- Long-Tail Zero and Few-Shot Learning via Contrastive Pretraining on and for Small Data
 Repository for the paper "Long-Tail Zero and Few-Shot Learning via Contrastive Pretraining on and for Small Data", Nils Rethmeier, Isabelle Augenstein, 2020
 
+# :computer: Code
+To be updated soon. In the meantime, you can aquire code and data by reaching out to the paper email.
+
+
 ## Summary
 CLESS, uses contrastive label-embedding self-supervision to enable data efficient text encoder pretraining that is inherently zero-shot transferable and improves long-tail minority learning.
 <p align="left"https://github.com/NilsRethmeier/CLESS><img src="CLESS_Model.png" width="630">
@@ -20,9 +24,6 @@ self-supervised zero and few-shot learning markedly benefit from increasing 'dat
 
 This is an updated version and the future code repository for the paper "Long-Tail Zero and Few-Shot Learning via Contrastive Pretraining on and for Small Data", Nils Rethmeier, Isabelle Augenstein, 2 Oct 2020, https://arxiv.org/abs/2010.01061
  -->
-
-# :computer: Code
-Code and arxiv paper will be updated in time.
 
 # :bookmark_tabs: bitex
 ```
